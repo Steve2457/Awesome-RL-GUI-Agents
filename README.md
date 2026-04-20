@@ -11,6 +11,7 @@ This repository provides a comprehensive and curated list of research papers, da
 ## 📋 Table of Contents
 - [🔔 News](#-news)
 - [🌟 Introduction](#-introduction)
+- [📚 Related Surveys](#-related-surveys)
 - [🤝 Contributing](#-contributing)
 - [🏗️ RL Methods](#%EF%B8%8F-rl-methods)
   - [Offline Reinforcement Learning](#offline-reinforcement-learning)
@@ -62,6 +63,30 @@ Reinforcement Learning for GUI agents addresses the core difficulties of GUI aut
 
 ---
 
+
+## 📚 Related Surveys
+
+| Paper | Venue / Year |
+| --- | --- |
+| Gui agents: A survey | Findings of ACL 2025 |
+| [Gui agents with foundation models: A comprehensive survey](https://arxiv.org/abs/2411.04890) | arXiv 2024 |
+| [Large language model-brained gui agents: A survey](https://arxiv.org/abs/2411.18279) | arXiv 2024 |
+| [Llm-powered gui agents in phone automation: Surveying progress and prospects](https://arxiv.org/abs/2504.19838) | arXiv 2025 |
+| [A survey on (m) llm-based gui agents](https://arxiv.org/abs/2504.13865) | arXiv 2025 |
+| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://arxiv.org/abs/2501.16150) | arXiv 2025 |
+| A survey of webagents: Towards next-generation ai agents for web automation with large foundation models | KDD |
+| [Api agents vs. gui agents: Divergence and convergence](https://arxiv.org/abs/2503.11069) | arXiv 2025 |
+| Survey on large language model-enhanced reinforcement learning: Concept, taxonomy, and methods | TNNLS |
+| [Reinforcement learning enhanced llms: A survey](https://arxiv.org/abs/2412.10400) | arXiv 2024 |
+| [The landscape of agentic reinforcement learning for llms: A survey](https://arxiv.org/abs/2509.02547) | arXiv 2025 |
+| [A survey of reinforcement learning for large reasoning models](https://arxiv.org/abs/2509.08827) | arXiv 2025 |
+| [Llm-based multi-agent reinforcement learning: Current and future directions](https://arxiv.org/abs/2405.11106) | arXiv 2024 |
+| Os agents: A survey on mllm-based agents for computer, phone and browser use | ACL |
+| [From system 1 to system 2: A survey of reasoning large language models](https://arxiv.org/abs/2502.17419) | arXiv 2025 |
+| Lifelong learning of large language model based agents: A roadmap | TPAMI |
+
+---
+
 ## 🤝 Contributing
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -89,18 +114,17 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | [Gui Exploration Lab: Enhancing Screen Navigation in Agents Via Multi-turn Reinforcement Learning](https://arxiv.org/abs/2512.02423) | 2025 |
 | [Navigating the Digital World as Humans Do: Universal Visual Grounding for Gui Agents](https://arxiv.org/abs/2410.05243) | arXiv 2024 |
 | [Seed1. 5-vl Technical Report](https://arxiv.org/abs/2505.07062) | arXiv 2025 |
-| Cogagent: a Visual Language Model for Gui Agents | Proceedings of the IEEE/CVF CVPR 2024 |
-| Clickagent: Enhancing Ui Location Capabilities of Autonomous Agents | Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue 2025 |
-| Spiritsight Agent: Advanced Gui Agent with One Look | Proceedings of the computer vision and pattern recognition conference 2025 |
+| Cogagent: a Visual Language Model for Gui Agents | CVPR 2024 |
+| Clickagent: Enhancing Ui Location Capabilities of Autonomous Agents | SIGDIAL 2025 |
+| Spiritsight Agent: Advanced Gui Agent with One Look | CVPR 2025 |
 | [Efficient Multi-turn Rl for Gui Agents Via Decoupled Training and Adaptive Data Curation](https://arxiv.org/abs/2509.23866) | arXiv 2025 |
-| Showui: One Vision-language-action Model for Gui Visual Agent | Proceedings of the Computer Vision and Pattern Recognition Conference 2025 |
-| [Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731) | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Showui: One Vision-language-action Model for Gui Visual Agent | CVPR 2025 |
+| [Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731) | AAAI 2026 |
 | [Infiguiagent: a Multimodal Generalist Gui Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575) | arXiv 2025 |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
 | [Ui-s1: Advancing Gui Automation Via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543) | arXiv 2025 |
 | [Ui-r1: Enhancing Efficient Action Prediction of Gui Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) | arXiv 2025 |
 | [Gui-r1: a Generalist R1-style Vision-language Action Model for Gui Agents](https://arxiv.org/abs/2504.10458) | arXiv 2025 |
-| Visual Test-time Scaling for Gui Agent Grounding | Proceedings of the IEEE/CVF International Conference on Computer Vision 2025 |
+| Visual Test-time Scaling for Gui Agent Grounding | ICCV 2025 |
 | [Computer-using Agent](https://openai.com/index/computer-using-agent/) | 2025 |
 | [Ui-tars: Pioneering Automated Gui Interaction with Native Agents](https://arxiv.org/abs/2501.12326) | arXiv 2025 |
 | [Falcon-ui: Understanding Gui Before Following User Instructions](https://arxiv.org/abs/2412.09362) | arXiv 2024 |
@@ -110,24 +134,28 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | [Kimi-vl Technical Report](https://arxiv.org/abs/2504.07491) | arXiv 2025 |
 | [Internvl3. 5: Advancing Open-source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265) | arXiv 2025 |
 | [Opencua: Open Foundations for Computer-use Agents](https://arxiv.org/abs/2508.09123) | arXiv 2025 |
-| Ponder \& Press: Advancing Visual Gui Agent Towards General Computer Control | Findings of the Association for Computational Linguistics: ACL 2025 2025 |
+| Ponder \& Press: Advancing Visual Gui Agent Towards General Computer Control | Findings of ACL 2025 |
 | [Ui-tars-2 Technical Report: Advancing Gui Agent with Multi-turn Reinforcement Learning](https://arxiv.org/abs/2509.02544) | arXiv 2025 |
 | [Os-copilot: Towards Generalist Computer Agents with Self-improvement](https://arxiv.org/abs/2402.07456) | arXiv 2024 |
 | [Backtrackagent: Enhancing Gui Agent with Error Detection and Backtracking Mechanism](https://arxiv.org/abs/2505.20660) | arXiv 2025 |
 | Vsc-rl: Advancing Autonomous Vision-language Agents with Variational Subgoal-conditioned Reinforcement Learning | arXiv 2025 |
 | [Aguvis: Unified Pure Vision Agents for Autonomous Gui Interaction](https://arxiv.org/abs/2412.04454) | arXiv 2024 |
 | [Step-gui Technical Report](https://arxiv.org/abs/2512.15431) | arXiv 2025 |
-| [Step-gui Technical Report](https://arxiv.org/abs/2512.15431) | arXiv 2025 |
-| Aria-ui: Visual Grounding for Gui Instructions | Findings of the Association for Computational Linguistics: ACL 2025 2025 |
+| Aria-ui: Visual Grounding for Gui Instructions | Findings of ACL 2025 |
 | [Gta1: Gui Test-time Scaling Agent](https://arxiv.org/abs/2507.05791) | arXiv 2025 |
 | [Mobile-agent-v3: Fundamental Agents for Gui Automation](https://arxiv.org/abs/2508.15144) | arXiv 2025 |
 | Se-gui: Enhancing Visual Grounding for Gui Agents Via Self-evolutionary Reinforcement Learning | N/A |
 | [Uitron: Foundational Gui Agent with Advanced Perception and Planning](https://arxiv.org/abs/2508.21767) | arXiv 2025 |
-| Agentcpm-gui: Building Mobile-use Agents with Reinforcement Fine-tuning | Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations 2025 |
+| Agentcpm-gui: Building Mobile-use Agents with Reinforcement Fine-tuning | EMNLP 2025 |
 | [Phi-ground Tech Report: Advancing Perception in Gui Grounding](https://arxiv.org/abs/2507.23779) | arXiv 2025 |
 | [Ufo2: the Desktop Agentos](https://arxiv.org/abs/2504.14603) | arXiv 2025 |
 | [Omegause: Building a General-purpose Gui Agent for Autonomous Task Execution](https://arxiv.org/abs/2601.20380) | arXiv 2026 |
 | [Mai-ui Technical Report: Real-world Centric Foundation Gui Agents](https://arxiv.org/abs/2512.22047) | arXiv 2025 |
+| Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku --- anthropic.com | N/A |
+| Introducing the Gemini 2.5 Computer Use model | N/A |
+| Computer-Using Agent --- openai.com | N/A |
+| Os-atlas: A foundation action model for generalist gui agents | ICLR |
+| [Agent q: Advanced reasoning and learning for autonomous ai agents](https://arxiv.org/abs/2408.07199) | arXiv 2024 |
 
 
 
@@ -139,6 +167,12 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | --- | --- |
 | Direct Preference Optimization: Your Language Model Is Secretly a Reward Model | NeurIPS 2023 |
 | [Deepseekmath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) | arXiv 2024 |
+| Conservative q-learning for offline reinforcement learning | NeurIPS |
+| Offline reinforcement learning with implicit q-learning | ICLR |
+| Decision transformer: Reinforcement learning via sequence modeling | NeurIPS |
+| Behavioral cloning from observation | IJCAI |
+| Implicit behavioral cloning | Conference on robot learning |
+| [Advantage-weighted regression: Simple and scalable off-policy reinforcement learning](https://arxiv.org/abs/1910.00177) | arXiv 2019 |
 
 
 
@@ -154,6 +188,9 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | [Probabilistic Subgoal Representations for Hierarchical Reinforcement Learning](https://arxiv.org/abs/2406.16707) | arXiv 2024 |
 | [Hi-agent: Hierarchical Vision-language Agents for Mobile Device Control](https://arxiv.org/abs/2510.14388) | arXiv 2025 |
 | [Ultracua: a Foundation Model for Computer Use Agents with Hybrid Action](https://arxiv.org/abs/2510.17790) | arXiv 2025 |
+| [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/abs/2505.16282) | arXiv 2025 |
+| [Mobilerl: Online agentic reinforcement learning for mobile gui agents](https://arxiv.org/abs/2509.18119) | arXiv 2025 |
+| [Digi-q: Learning q-value functions for training device-control agents](https://arxiv.org/abs/2502.15760) | arXiv 2025 |
 
 
 
@@ -163,8 +200,12 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | --- | --- |
 | [Group-in-group Policy Optimization for Llm Agent Training](https://arxiv.org/abs/2505.10978) | arXiv 2025 |
 | [Enhancing Cooperative Multi-agent Reinforcement Learning with State Modelling and Adversarial Exploration](https://arxiv.org/abs/2505.05262) | arXiv 2025 |
-| Wcsac: Worst-case Soft Actor Critic for Safety-constrained Reinforcement Learning | Proceedings of the AAAI Conference on Artificial Intelligence 2021 |
+| Wcsac: Worst-case Soft Actor Critic for Safety-constrained Reinforcement Learning | AAAI 2021 |
 | [Constrained Reinforcement Learning with Smoothed Log Barrier Function](https://arxiv.org/abs/2403.14508) | arXiv 2024 |
+| [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.02951) | arXiv 2026 |
+| [Continual GUI Agents](https://arxiv.org/abs/2601.20732) | arXiv 2026 |
+| [Autonomous Continual Learning of Computer-Use Agents for Environment Adaptation](https://arxiv.org/abs/2602.10356) | arXiv 2026 |
+| [Online continual learning for interactive instruction following agents](https://arxiv.org/abs/2403.07548) | arXiv 2024 |
 
 
 
@@ -174,7 +215,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 | --- | --- |
 | [Agentic Entropy-balanced Policy Optimization](https://arxiv.org/abs/2510.14545) | arXiv 2025 |
 | [Nested Browser-use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647) | arXiv 2025 |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | AAAI 2026 |
 | Webrl: Training Llm Web Agents Via Self-evolving Online Curriculum Reinforcement Learning | ICLR 2024 |
 | [Gui-g$^2](https://arxiv.org/abs/2507.15846) | 2025 |
 
@@ -196,7 +237,13 @@ The process of defining objective feedback signals for GUI tasks.
 
 | Paper | Venue / Year |
 | --- | --- |
-| Gui Agents: a Survey | Findings of the Association for Computational Linguistics: ACL 2025 2025 |
+| Gui Agents: a Survey | Findings of ACL 2025 |
+| [Rlthf: Targeted human feedback for llm alignment](https://arxiv.org/abs/2502.13417) | arXiv 2025 |
+| Rlaif vs. rlhf: Scaling reinforcement learning from human feedback with ai feedback | NeurIPS |
+| [Curriculum-rlaif: Curriculum alignment with reinforcement learning from ai feedback](https://arxiv.org/abs/2505.20075) | arXiv 2025 |
+| [Agentprm: Process reward models for llm agents via step-wise promise and progress](https://arxiv.org/abs/2511.08325) | arXiv 2025 |
+| [Process reinforcement through implicit rewards](https://arxiv.org/abs/2502.01456) | arXiv 2025 |
+| Ovm, outcome-supervised value models for planning in mathematical reasoning | Findings of ACL 2024 |
 
 
 
@@ -205,7 +252,7 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | Mind2web: Towards a Generalist Agent for the Web | NeurIPS 2023 |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | AAAI 2026 |
 | [Ui-r1: Enhancing Efficient Action Prediction of Gui Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) | arXiv 2025 |
 | [Gui-g $\^](https://arxiv.org/abs/2507.15846) | 2025 |
 | [Gui-g$^2](https://arxiv.org/abs/2507.15846) | 2025 |
@@ -229,7 +276,7 @@ The process of defining objective feedback signals for GUI tasks.
 
 | Paper | Venue / Year |
 | --- | --- |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | AAAI 2026 |
 | [Gui-g$^2](https://arxiv.org/abs/2507.15846) | 2025 |
 
 
@@ -241,12 +288,12 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Scaling Agent Learning Via Experience Synthesis](https://arxiv.org/abs/2511.03773) | arXiv 2025 |
-| [Scaling Agent Learning Via Experience Synthesis](https://arxiv.org/abs/2511.03773) | arXiv 2025 |
 | [Simura: a World-model-driven Simulative Reasoning Architecture for General Goal-oriented Agents](https://arxiv.org/abs/2507.23773) | arXiv 2025 |
 | [Websynthesis: World-model-guided Mcts for Efficient Webui-trajectory Synthesis](https://arxiv.org/abs/2507.04370) | arXiv 2025 |
 | [Llms as Scalable, General-purpose Simulators for Evolving Digital Agent Training](https://arxiv.org/abs/2510.14969) | arXiv 2025 |
 | [Webworld: a Large-scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721) | arXiv 2026 |
 | [Code2world: a Gui World Model Via Renderable Code Generation](https://arxiv.org/abs/2602.09856) | arXiv 2026 |
+| [Is your llm secretly a world model of the internet? model-based planning for web agents](https://arxiv.org/abs/2411.06559) | arXiv 2024 |
 
 
 
@@ -255,11 +302,9 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Gui-rewalk: Massive Data Generation for Gui Agent Via Stochastic Exploration and Intent-aware Reasoning](https://arxiv.org/abs/2509.15738) | arXiv 2025 |
-| [Gui-rewalk: Massive Data Generation for Gui Agent Via Stochastic Exploration and Intent-aware Reasoning](https://arxiv.org/abs/2509.15738) | arXiv 2025 |
 | Watch and Learn? Using Edpuzzle to Enhance the Use of Online Videos | Management Teaching Review 2019 |
 | [Watch and Learn: Learning to Use Computers from Online Videos](https://arxiv.org/abs/2510.04673) | arXiv 2025 |
-| [Watch and Learn: Learning to Use Computers from Online Videos](https://arxiv.org/abs/2510.04673) | arXiv 2025 |
-| Os-genesis: Automating Gui Agent Trajectory Construction Via Reverse Task Synthesis | Proceedings of the 63rd ACL 2025 |
+| Os-genesis: Automating Gui Agent Trajectory Construction Via Reverse Task Synthesis | ACL 2025 |
 | [Agenttrek: Agent Trajectory Synthesis Via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605) | arXiv 2024 |
 | [Prune4web: Dom Tree Pruning Programming for Web Agent](https://arxiv.org/abs/2511.21398) | arXiv 2025 |
 
@@ -270,8 +315,6 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Gui-r1: a Generalist R1-style Vision-language Action Model for Gui Agents](https://arxiv.org/abs/2504.10458) | arXiv 2025 |
-| [Gui-r1: a Generalist R1-style Vision-language Action Model for Gui Agents](https://arxiv.org/abs/2504.10458) | arXiv 2025 |
-| [Co-epg: a Framework for Co-evolution of Planning and Grounding in Autonomous Gui Agents](https://arxiv.org/abs/2511.10705) | arXiv 2025 |
 | [Co-epg: a Framework for Co-evolution of Planning and Grounding in Autonomous Gui Agents](https://arxiv.org/abs/2511.10705) | arXiv 2025 |
 
 
@@ -283,10 +326,14 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Gui-eyes: Tool-augmented Perception for Visual Grounding in Gui Agents](https://arxiv.org/abs/2601.09770) | arXiv 2026 |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | AAAI 2026 |
 | [Gui-g$^2](https://arxiv.org/abs/2507.15846) | 2025 |
 | [Gui-actor: Coordinate-free Visual Grounding for Gui Agents](https://arxiv.org/abs/2506.03143) | arXiv 2025 |
 | [Gui-aima: Aligning Intrinsic Multimodal Attention with a Context Anchor for Gui Grounding](https://arxiv.org/abs/2511.00810) | arXiv 2025 |
+| Seeclick: Harnessing gui grounding for advanced visual gui agents | ACL |
+| Mapping natural language commands to web elements | EMNLP 2018 |
+| Understanding html with large language models | Findings of EMNLP 2023 |
+| Attacking vision-language computer agents via pop-ups | ACL |
 
 
 
@@ -300,9 +347,10 @@ The process of defining objective feedback signals for GUI tasks.
 | [Magnet: Towards Adaptive Gui Agents with Memory-driven Knowledge Evolution](https://arxiv.org/abs/2601.19199) | arXiv 2026 |
 | [Agentprog: Empowering Long-horizon Gui Agents with Program-guided Context Management](https://arxiv.org/abs/2512.10371) | arXiv 2025 |
 | [History-aware Reasoning for Gui Agents](https://arxiv.org/abs/2511.09127) | arXiv 2025 |
-| Webagent-r1: Training Web Agents Via End-to-end Multi-turn Reinforcement Learning | Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 |
+| Webagent-r1: Training Web Agents Via End-to-end Multi-turn Reinforcement Learning | EMNLP 2025 |
 | [Auto-scaling Continuous Memory for Gui Agent](https://arxiv.org/abs/2510.09038) | arXiv 2025 |
 | [Memsearcher: Training Llms to Reason, Search and Manage Memory Via End-to-end Reinforcement Learning](https://arxiv.org/abs/2511.02805) | arXiv 2025 |
+| [MemR $\^{} 3$: Memory Retrieval via Reflective Reasoning for LLM Agents](https://arxiv.org/abs/2512.20237) | arXiv 2025 |
 
 
 
@@ -322,9 +370,11 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | Mind2web: Towards a Generalist Agent for the Web | NeurIPS 2023 |
-| Omniact: a Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web | European Conference on Computer Vision 2024 |
+| Omniact: a Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web | ECCV 2024 |
 | On the Effects of Data Scale on Ui Control Agents | NeurIPS 2024 |
 | Androidinthewild: a Large-scale Dataset for Android Device Control | NeurIPS 2023 |
+| Guiodyssey: A comprehensive dataset for cross-app gui navigation on mobile devices | ICCV |
+| [Learnact: Few-shot mobile gui agent with a unified demonstration benchmark](https://arxiv.org/abs/2504.13805) | arXiv 2025 |
 
 
 
@@ -332,13 +382,13 @@ The process of defining objective feedback signals for GUI tasks.
 
 | Paper | Venue / Year |
 | --- | --- |
-| Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications | Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology 2023 |
-| Rico: a Mobile App Dataset for Building Data-driven Design Applications | Proceedings of the 30th annual ACM symposium on user interface software and technology 2017 |
-| Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements | Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020 |
+| Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications | UIST 2023 |
+| Rico: a Mobile App Dataset for Building Data-driven Design Applications | UIST 2017 |
+| Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements | EMNLP 2020 |
 | Ferret-ui 2: Mastering Universal User Interface Understanding Across Platforms | ICLR 2024 |
-| Screenspot-pro: Gui Grounding for Professional High-resolution Computer Use | Proceedings of the 33rd ACM International Conference on Multimedia 2025 |
-| Screen2words: Automatic Mobile Ui Summarization with Multimodal Learning | The 34th Annual ACM Symposium on User Interface Software and Technology 2021 |
-| Ferret-ui: Grounded Mobile Ui Understanding with Multimodal Llms | European Conference on Computer Vision 2024 |
+| Screenspot-pro: Gui Grounding for Professional High-resolution Computer Use | ACM MM 2025 |
+| Screen2words: Automatic Mobile Ui Summarization with Multimodal Learning | UIST 2021 |
+| Ferret-ui: Grounded Mobile Ui Understanding with Multimodal Llms | ECCV 2024 |
 
 
 
@@ -349,18 +399,18 @@ The process of defining objective feedback signals for GUI tasks.
 | [Agent-x: Evaluating Deep Multimodal Reasoning in Vision-centric Agentic Tasks](https://arxiv.org/abs/2505.24876) | arXiv 2025 |
 | [Gui-bee: Align Gui Action Grounding to Novel Environments Via Autonomous Exploration](https://arxiv.org/abs/2501.13896) | arXiv 2025 |
 | [End-to-end Navigation with Vision Language Models: Transforming Spatial Reasoning Into Question-answering](https://arxiv.org/abs/2411.05755) | arXiv 2024 |
-| Visualwebarena: Evaluating Multimodal Agents on Realistic Visual Web Tasks | Proceedings of the 62nd ACL 2024 |
-| Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents | Findings of the Association for Computational Linguistics: ACL 2025 2025 |
+| Visualwebarena: Evaluating Multimodal Agents on Realistic Visual Web Tasks | ACL 2024 |
+| Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents | Findings of ACL 2025 |
 | [Webcanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2406.12373) | arXiv 2024 |
 | [Ui-tars: Pioneering Automated Gui Interaction with Native Agents](https://arxiv.org/abs/2501.12326) | arXiv 2025 |
 | [Scaling Synthetic Task Generation for Agents Via Exploration](https://arxiv.org/abs/2509.25047) | arXiv 2025 |
 | Androidworld: a Dynamic Benchmarking Environment for Autonomous Agents | ICLR 2024 |
 | [Bearcubs: a Benchmark for Computer-using Web Agents](https://arxiv.org/abs/2503.07919) | arXiv 2025 |
-| Beyond Browsing: Api-based Web Agents | Findings of the Association for Computational Linguistics: ACL 2025 2025 |
-| Webwalker: Benchmarking Llms in Web Traversal | Proceedings of the 63rd ACL 2025 |
+| Beyond Browsing: Api-based Web Agents | Findings of ACL 2025 |
+| Webwalker: Benchmarking Llms in Web Traversal | ACL 2025 |
 | Osworld: Benchmarking Multimodal Agents for Open-ended Tasks in Real Computer Environments | NeurIPS 2024 |
 | [Theagentcompany: Benchmarking Llm Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161) | arXiv 2024 |
-| Appagent: Multimodal Agents as Smartphone Users | Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems 2025 |
+| Appagent: Multimodal Agents as Smartphone Users | CHI 2025 |
 | Webarena: a Realistic Web Environment for Building Autonomous Agents | ICLR 2023 |
 
 
@@ -374,11 +424,14 @@ The process of defining objective feedback signals for GUI tasks.
 | [The Browsergym Ecosystem for Web Agent Research](https://arxiv.org/abs/2412.05467) | arXiv 2024 |
 | Mind2web: Towards a Generalist Agent for the Web | NeurIPS 2023 |
 | [A Data-driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) | arXiv 2022 |
-| Visualwebarena: Evaluating Multimodal Agents on Realistic Visual Web Tasks | Proceedings of the 62nd ACL 2024 |
+| Visualwebarena: Evaluating Multimodal Agents on Realistic Visual Web Tasks | ACL 2024 |
 | Reinforcement Learning on Web Interfaces Using Workflow-guided Exploration | ICLR 2018 |
 | [Webchorearena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://arxiv.org/abs/2506.01952) | arXiv 2025 |
 | Webshop: Towards Scalable Real-world Web Interaction with Grounded Language Agents | NeurIPS 2022 |
 | Webarena: a Realistic Web Environment for Building Autonomous Agents | ICLR 2023 |
+| [Webgpt: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | arXiv 2021 |
+| Webvoyager: Building an end-to-end web agent with large multimodal models | ACL |
+| World of bits: An open-domain platform for web-based agents | ICML |
 
 
 
@@ -387,8 +440,10 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Computerrl: Scaling End-to-end Online Reinforcement Learning for Computer Use Agents](https://arxiv.org/abs/2508.14040) | arXiv 2025 |
-| Screenagent: a Vision Language Model-driven Computer Control Agent | International Joint Conference on Artificial Intelligence (IJCAI) 2024 |
+| Screenagent: a Vision Language Model-driven Computer Control Agent | IJCAI 2024 |
 | Osworld: Benchmarking Multimodal Agents for Open-ended Tasks in Real Computer Environments | NeurIPS 2024 |
+| [Windows agent arena: Evaluating multi-modal os agents at scale](https://arxiv.org/abs/2409.08264) | arXiv 2024 |
+| [Ui-vision: A desktop-centric gui benchmark for visual perception and interaction](https://arxiv.org/abs/2503.15661) | arXiv 2025 |
 
 
 
@@ -411,6 +466,7 @@ The process of defining objective feedback signals for GUI tasks.
 | --- | --- |
 | [Osworld-mcp: Benchmarking Mcp Tool Invocation in Computer-use Agents](https://arxiv.org/abs/2510.24563) | arXiv 2025 |
 | [Mcpworld: a Unified Benchmarking Testbed for Api, Gui, and Hybrid Computer Use Agents](https://arxiv.org/abs/2506.07672) | arXiv 2025 |
+| [Os-harm: A benchmark for measuring safety of computer use agents](https://arxiv.org/abs/2506.14866) | arXiv 2025 |
 
 
 
@@ -427,13 +483,13 @@ The process of defining objective feedback signals for GUI tasks.
 
 | Paper | Venue / Year |
 | --- | --- |
-| Openrlhf: an Easy-to-use, Scalable and High-performance Rlhf Framework | Proceedings of the Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP) 2024 |
-| Efficient Memory Management for Large Language Model Serving with Pagedattention | Proceedings of the 29th symposium on operating systems principles 2023 |
-| Real: Efficient Rlhf Training of Large Language Models with Parameter Reallocation | Proceedings of Machine Learning and Systems 2025 |
-| Hybridflow: a Flexible and Efficient Rlhf Framework | Proceedings of the Twentieth European Conference on Computer Systems 2025 |
+| Openrlhf: an Easy-to-use, Scalable and High-performance Rlhf Framework | EMNLP 2024 |
+| Efficient Memory Management for Large Language Model Serving with Pagedattention | SOSP 2023 |
+| Real: Efficient Rlhf Training of Large Language Models with Parameter Reallocation | MLSys 2025 |
+| Hybridflow: a Flexible and Efficient Rlhf Framework | EuroSys 2025 |
 | [Megatron-lm: Training Multi-billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | arXiv 2019 |
 | [Rewarddance: Reward Scaling in Visual Generation](https://arxiv.org/abs/2509.08826) | arXiv 2025 |
-| Pytorch Fsdp: Experiences on Scaling Fully Sharded Data Parallel | Proceedings of the VLDB Endowment 2023 |
+| Pytorch Fsdp: Experiences on Scaling Fully Sharded Data Parallel | VLDB 2023 |
 
 
 
@@ -454,7 +510,7 @@ The process of defining objective feedback signals for GUI tasks.
 | --- | --- |
 | [Agentic Reward Modeling: Verifying Gui Agent Via Online Proactive Interaction](https://arxiv.org/abs/2602.00575) | arXiv 2026 |
 | [Mano Technical Report](https://arxiv.org/abs/2509.17336) | arXiv 2025 |
-| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | Proceedings of the AAAI Conference on Artificial Intelligence 2026 |
+| Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization | AAAI 2026 |
 | [Progrm: Build Better Gui Agents with Progress Rewards](https://arxiv.org/abs/2505.18121) | arXiv 2025 |
 
 
@@ -475,7 +531,7 @@ The process of defining objective feedback signals for GUI tasks.
 | --- | --- |
 | [The Browsergym Ecosystem for Web Agent Research](https://arxiv.org/abs/2412.05467) | arXiv 2024 |
 | Openhands: an Open Platform for Ai Software Developers as Generalist Agents | ICLR 2024 |
-| Autogen: Enabling Next-gen Llm Applications Via Multi-agent Conversations | First Conference on Language Modeling 2024 |
+| Autogen: Enabling Next-gen Llm Applications Via Multi-agent Conversations | COLM 2024 |
 
 
 
