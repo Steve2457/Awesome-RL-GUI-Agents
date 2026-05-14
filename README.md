@@ -325,6 +325,7 @@ The process of defining objective feedback signals for GUI tasks.
 | Paper | Venue / Year |
 | --- | --- |
 | [Gui-eyes: Tool-augmented Perception for Visual Grounding in Gui Agents](https://arxiv.org/abs/2601.09770) | arXiv 2026 |
+| [GroundCUA: Grounding Computer Use Agents on Human Demonstrations](https://arxiv.org/abs/2511.07332) | ICLR 2026 |
 | [Infigui-g1: Advancing Gui Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731) | AAAI 2026 |
 | [Gui-g$^2](https://arxiv.org/abs/2507.15846) | 2025 |
 | [Gui-actor: Coordinate-free Visual Grounding for Gui Agents](https://arxiv.org/abs/2506.03143) | arXiv 2025 |
@@ -386,6 +387,7 @@ The process of defining objective feedback signals for GUI tasks.
 | [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements](https://arxiv.org/abs/2010.04295) | EMNLP 2020 |
 | [Ferret-ui 2: Mastering Universal User Interface Understanding Across Platforms](https://arxiv.org/abs/2410.18967) | ICLR 2024 |
 | [Screenspot-pro: Gui Grounding for Professional High-resolution Computer Use](https://arxiv.org/abs/2504.07981) | ACM MM 2025 |
+| [GroundCUA: Grounding Computer Use Agents on Human Demonstrations](https://arxiv.org/abs/2511.07332) | ICLR 2026 |
 | [Screen2words: Automatic Mobile Ui Summarization with Multimodal Learning](https://arxiv.org/abs/2108.03353) | UIST 2021 |
 | [Ferret-ui: Grounded Mobile Ui Understanding with Multimodal Llms](https://arxiv.org/abs/2404.05719) | ECCV 2024 |
 
@@ -454,6 +456,8 @@ The process of defining objective feedback signals for GUI tasks.
 | [Mobilegui-rl: Advancing Mobile Gui Agent Through Reinforcement Learning in Online Environment](https://arxiv.org/abs/2507.05720) | arXiv 2025 |
 | [Androidenv: a Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) | arXiv 2021 |
 | [Uisim: an Interactive Image-based Ui Simulator for Dynamic Mobile Environments](https://arxiv.org/abs/2509.21733) | arXiv 2025 |
+| [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://arxiv.org/abs/2404.16660) | CoLLAs 2025 |
+| [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://arxiv.org/abs/2410.17520) | arXiv 2024 |
 | [Mobile-env: a Universal Platform for Training and Evaluation of Mobile Interaction](https://arxiv.org/abs/2305.08144) | CoRR 2023 |
 | [Mai-ui Technical Report: Real-world Centric Foundation Gui Agents](https://arxiv.org/abs/2512.22047) | arXiv 2025 |
 
