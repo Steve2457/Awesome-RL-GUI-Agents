@@ -433,6 +433,7 @@ The process of defining objective feedback signals for GUI tasks.
 | [Webgpt: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | arXiv 2021 |
 | [Webvoyager: Building an end-to-end web agent with large multimodal models](https://arxiv.org/abs/2401.13919) | ACL |
 | [World of bits: An open-domain platform for web-based agents](https://proceedings.mlr.press/v70/shi17a.html) | ICML |
+| [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | arXiv 2026 |
 
 
 
